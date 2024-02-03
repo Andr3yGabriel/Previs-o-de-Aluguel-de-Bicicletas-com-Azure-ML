@@ -19,3 +19,25 @@
   },
   "GlobalParameters": 1.0
 }
+
+{
+  "Inputs": {
+    "data": [
+      {
+        "day": 1,
+        "mnth": 5,
+        "year": 2024,
+        "season": 1,
+        "holiday": 1,
+        "weekday": 3,
+        "workingday": 0,
+        "weathersit": 4,
+        "temp": 0.3,
+        "atemp": 0.3,
+        "hum": 0.5,
+        "windspeed": 0.3
+      }
+    ]
+  },
+  "GlobalParameters": 1.0
+}
